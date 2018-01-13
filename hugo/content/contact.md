@@ -1,9 +1,10 @@
 ---
-title: "Contact"
-type: "contact"
-image: /img/racoon_vert.jpg
----
+title: Contact
+type: contact
+image: "/img/racoon_vert.jpg"
+date: ''
 
+---
 For bookings and all other inquiries:
 
 *   [racoonbanditmusic@gmail.com](mailto: racoonbanditmusic@gmail.com)
