@@ -3,12 +3,7 @@ title: "Contact"
 type: "contact"
 image: /img/racoon_vert.jpg
 date: 2017-12-31 17:00:00 -1100
-menu:
-  main:
-  - name: contact
-    URL: /contact
-    weight: 1
-    identifier: contact
+menu: "main"
 ---
 For bookings and all other inquiries:
 

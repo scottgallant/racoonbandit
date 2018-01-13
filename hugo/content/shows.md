@@ -11,10 +11,5 @@ shows:
   description: Some show
   link: ''
 date: 2017-12-31 17:00:00 -1100
-menu:
-  main:
-  - name: shows
-    URL: /shows
-    weight: 1
-    identifier: shows
+menu: "main"
 ---

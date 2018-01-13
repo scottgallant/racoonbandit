@@ -2,12 +2,7 @@
 title: "Press"
 type: "default"
 image: "/img/band.jpg"
-menu:
-  main:
-  - name: press
-    URL: /press
-    weight: 99
-    identifier: press
+menu: "main"
 ---
 <p style="text-align: left;"><strong>For interviews or media requests, please contact Pigeon Row, via trevor@pigeonrow.ca</strong></p>
 <p><a href="https://www.dropbox.com/sh/9icyfyt0ut0cbf0/AAAenTCjOJPDD1QCveNGmCCja?dl=0" target="_blank">DOWNLOAD ARTWORK AND HIGH RES PHOTOS</a></p>
