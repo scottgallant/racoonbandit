@@ -32,11 +32,26 @@ enableEmoji = true
 # Site Menus
 # See the Hugo docs for usage in layouts
 # https://gohugo.io/content-management/menus/
-[[menu.main]]
-  name = "Home"
-  weight = 1
-  identifier = "home"
-  url = "/"
+[[menu.social]]
+  name = "facebook"
+  weight = 0
+  identifier = "facebook"
+  url = "http://www.facebook.com/racoonbanditmusic"
+[[menu.social]]
+  name = "iTunes"
+  weight = 0
+  identifier = "itunes"
+  url = "http://itunes.apple.com/ca/artist/racoon-bandit/id369504253"
+[[menu.social]]
+  name = "Radio3"
+  weight = 0
+  identifier = "radio3"
+  url = "http://radio3.cbc.ca/bands/Racoon-Bandit"
+[[menu.social]]
+  name = "Twitter"
+  weight = 0
+  identifier = "Twitter"
+  url = "https://twitter.com/racoon_bandit"
 
 # Related Content
 # ---------------

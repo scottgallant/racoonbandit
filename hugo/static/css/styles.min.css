@@ -227,7 +227,7 @@ Verdana, Tahoma, Geneva, sans-serif - t
 
 /* Main Nav */.links li,.main_nav li{float:right;clear:both;margin-bottom:10px}
 
-/* high level stuff */h1,h2,h3,h4{color:#847979}h3{font-size:16px}.links a,.main_nav a{color:#222;text-decoration:none;font-size:16px;font-family:traveling-typewriter;padding:0 4px /* this is for the current state with background color */}.links{margin-top:30px}.links li{margin-bottom:5px}.links li a{color:#494f4a;font-size:14px}.links a:hover,.main_nav a:hover{color:#999}.current-menu-item a{background:#222;color:#ddd}
+/* high level stuff */h1,h2,h3,h4{color:#847979}h3{font-size:16px}.links a,.main_nav a{color:#222;text-decoration:none;font-size:16px;font-family:traveling-typewriter;padding:0 4px /* this is for the current state with background color */}.links{margin-top:30px}.links li{margin-bottom:5px}.links li a{color:#494f4a;font-size:14px}.links a:hover,.main_nav a:hover{color:#999}.current a{background:#222;color:#ddd}
 
 /* PAGE STYLE */.entry-content img,p{margin-bottom:1em}.entry-content img.size-full{margin-left:0}.main_col{text-align:justify}.home .entry-content img{margin-top:-20px}.page-id-19 .entry-content img{margin-top:0px}hr{display:block;border:0;width:656px;height:1px;
 	/*background:transparent url(images/divider_h.jpg) no-repeat left top;*/background:#000000;background:rgba(0,0,0,.1);margin:15px auto}@font-face{font-family:traveling-typewriter;src:url(../fonts/travelingtypewriter-webfont.eot);src:url(../fonts/travelingtypewriter-webfont.eot%3F) format("embedded-opentype"),url(../fonts/travelingtypewriter-webfont.woff) format("woff"),url(../fonts/travelingtypewriter-webfont.ttf) format("truetype"),url(../fonts/travelingtypewriter-webfont.svg) format("svg");font-weight:400;font-style:normal}

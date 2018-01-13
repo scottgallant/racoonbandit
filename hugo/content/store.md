@@ -3,7 +3,12 @@ title: Store
 type: default
 image: "/img/rehearse21.jpg"
 date: 2017-12-31 17:00:00 -1100
-
+menu:
+  main:
+  - name: store
+    URL: /store
+    weight: 3
+    identifier: store
 ---
 Buy from <a href="http://racoonbandit.bandcamp.com/">bandcamp</a>
 

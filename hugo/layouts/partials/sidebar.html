@@ -1,21 +1,21 @@
 <div class="sidebar">
-		<nav id="access" role="navigation">
-                     <div class="menu-main-nav-container"><ul id="menu-main-nav" class="main_nav clearfix"><li id="menu-item-38" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38"><a href="/music/index.html">music</a></li>
-<li id="menu-item-37" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37"><a href="/about-us/index.html">about</a></li>
-<li id="menu-item-426" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-426"><a href="/shows/index.html">Shows</a></li>
-<li id="menu-item-262" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-262"><a href="/videos/index.html">videos</a></li>
-<li id="menu-item-35" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35"><a href="/store/index.html">store</a></li>
-<li id="menu-item-400" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-400"><a href="/press/index.html">press</a></li>
-<li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a href="/contact/index.html">contact</a></li>
+	<nav id="access" role="navigation">
+		<div class="menu-main-nav-container">
+			<ul id="menu-main-nav" class="main_nav clearfix">
+
+				{{ $currentNode := . }}
+				{{ range .Site.Menus.main }}
+				<li class="{{if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }} current{{end}}" id="{{ lower .Name }}"> <a href="{{.URL}}">{{ .Name }}</a></li>
+				{{ end }}
 </ul></div>                 </nav>
 
 
-		<ul class="nav links clearfix">
-		<li><a href="http://www.facebook.com/racoonbanditmusic">facebook</a></li>
-<li><a href="http://itunes.apple.com/ca/artist/racoon-bandit/id369504253">iTunes</a></li>
-<li><a href="http://radio3.cbc.ca/bands/Racoon-Bandit">Radio3</a></li>
-<li><a href="https://twitter.com/racoon_bandit">Twitter</a></li>
-		</ul>
+<ul class="nav links clearfix">
+	{{ range .Site.Menus.social }}
+	<li> <a href="{{.URL}}">{{ .Name }}</a></li>
+	{{ end }}
+
+</ul>
 
 
 
