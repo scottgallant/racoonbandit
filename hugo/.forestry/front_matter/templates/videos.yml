@@ -33,6 +33,8 @@ fields:
       wysiwyg: true
   hidden: false
   default: ''
+  config:
+    labelField: heading
 - type: datetime
   name: date
   label: Date
