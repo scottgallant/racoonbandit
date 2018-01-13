@@ -1,17 +1,8 @@
 ---
-<<<<<<< HEAD
 title: "Contact"
 type: "contact"
 image: /img/racoon_vert.jpg
 date: 2017-12-31 17:00:00 -1100
----
-=======
-title: Contact
-type: contact
-image: "/img/racoon_vert.jpg"
-date: ''
->>>>>>> c090ba86aa6b54b8595b1a9ae03a156266f12c4e
-
 ---
 For bookings and all other inquiries:
 
