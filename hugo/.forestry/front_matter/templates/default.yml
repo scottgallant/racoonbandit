@@ -5,8 +5,8 @@ pages:
 - press.md
 - music.md
 - _index.md
-- contact.md
 - download.md
+- contact.md
 - about-us.md
 hide_body: false
 fields:
