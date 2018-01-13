@@ -2,7 +2,7 @@
 title: About us
 type: default
 image: "/img/montreal_show_bw.jpeg"
-date: ''
+date: 2017-12-31 17:00:00 -1100
 
 ---
 Racoon Bandit show a knack for warm folk-rock arrangements that hide an anthemic bite. Equal parts roots, pysch-rock, and indie, the quartet turned heads across the country this year with their third independent release "Close Your Eyes." The album was featured on several Best of 2015 lists, including Mixtape Magazine‘s Top-9 East Coast albums and Top-45 Canadian records of 2015. The album also picked up a 2016 East Coast Music Award nomination for Rock Recording of the Year and 3 Music PEI nominations.
@@ -15,7 +15,7 @@ The Bandits' arrangement and recording of Dick Blakeslee’s protest song ‘Pas
 
 **Praise for Racoon Bandit:**
 
-> “Their sound has elicited comparisons to such East Coast indie rock peers as the revered Sloan and Thrush Hermit, and their excellent new album Close Your Eyes justifies that.” 
+> “Their sound has elicited comparisons to such East Coast indie rock peers as the revered Sloan and Thrush Hermit, and their excellent new album Close Your Eyes justifies that.”
 
 – [New Canadian Music](https://www.facebook.com/NewCanadianMusic)
 
