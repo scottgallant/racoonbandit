@@ -2,6 +2,7 @@
 title: "Contact"
 type: "contact"
 image: /img/racoon_vert.jpg
+date: 2017-12-31 17:00:00 -1100
 ---
 
 For bookings and all other inquiries:
