@@ -15,17 +15,17 @@ fields:
   label: Videos
   type: field_group_list
   fields:
-  - name: embed
-    label: Embed Code
-    type: textarea
-    hidden: false
-    default: ''
-    description: Copy and paste the embed code from Youtube, Vimeo, etc
   - name: heading
     label: Heading
     type: text
     hidden: false
     default: ''
+  - name: embed
+    label: Embed Code
+    type: textarea
+    hidden: false
+    default: ''
+    description: Paste the embed code from Youtube, Vimeo, etc
   - type: textarea
     name: description
     label: Description
