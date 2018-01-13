@@ -1,5 +1,5 @@
 ---
-title: "About us"
+title: "Shows"
 type: "show"
 image: "/img/rehearse1.jpg"
 display_shows: true
