@@ -1,4 +1,6 @@
 ---
+pages:
+- shows.md
 hide_body: false
 fields:
 - name: title
