@@ -23,6 +23,7 @@ fields:
   type: boolean
   hidden: false
   default: ''
+  description: Turn this off if there are no shows
 - name: shows
   label: Shows
   type: field_group_list
