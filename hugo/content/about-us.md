@@ -21,7 +21,7 @@ The Bandits' arrangement and recording of Dick Blakeslee’s protest song ‘Pas
 
 > "Catchy….moving…I couldn’t get enough of the harmonies, and found myself singing along. 4/5 Stars.”
 
-Canadian Beats
+– Canadian Beats
 
 > "Soaring harmonies mixed with a blend of folk and rock that find an irresistible happy medium between the two…a band with a killer amount of potential.”
 
