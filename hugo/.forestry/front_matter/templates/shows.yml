@@ -42,3 +42,6 @@ fields:
     default: ''
   hidden: false
   default: ''
+- type: datetime
+  name: date
+  label: Date
