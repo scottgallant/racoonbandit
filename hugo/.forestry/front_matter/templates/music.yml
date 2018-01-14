@@ -32,6 +32,10 @@ fields:
     type: text
     hidden: false
     description: Paste the soundcloud embed code here
+  - type: text
+    name: name
+    label: Name
+    description: Song or Album that is being embedded
 - type: datetime
   name: date
   label: Date
