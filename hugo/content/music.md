@@ -1,7 +1,11 @@
 ---
-title: "Music"
-type: "default"
-menu: "main"
+title: Music
+type: default
+image: "/img/test-1.png"
+date: 2017-12-30 17:00:00 -1100
+menu:
+  main: {}
+
 ---
 <div style="margin-bottom: 2em;padding-bottom: 2em;">
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/126870226&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
