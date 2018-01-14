@@ -3,7 +3,7 @@ title: "Press"
 type: "default"
 image: "/img/band.jpg"
 menu: "main"
-date: 2017-12-31 17:00:00 -1100
+date: 2017-12-30 17:00:00 -1100
 ---
 <p style="text-align: left;"><strong>For interviews or media requests, please contact Pigeon Row, via trevor@pigeonrow.ca</strong></p>
 <p><a href="https://www.dropbox.com/sh/9icyfyt0ut0cbf0/AAAenTCjOJPDD1QCveNGmCCja?dl=0" target="_blank">DOWNLOAD ARTWORK AND HIGH RES PHOTOS</a></p>
