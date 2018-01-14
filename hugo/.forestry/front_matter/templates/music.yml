@@ -1,4 +1,6 @@
 ---
+pages:
+- music.md
 hide_body: false
 fields:
 - name: title
@@ -29,7 +31,7 @@ fields:
     label: Embed Code
     type: text
     hidden: false
-    description: 'Paste the soundcloud embed code here'
+    description: Paste the soundcloud embed code here
 - type: datetime
   name: date
   label: Date

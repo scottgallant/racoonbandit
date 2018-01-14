@@ -3,6 +3,7 @@ title: Music
 type: default
 image: "/img/test-1.png"
 date: 2017-12-30 17:00:00 -1100
+soundcloud: []
 menu:
   main: {}
 
