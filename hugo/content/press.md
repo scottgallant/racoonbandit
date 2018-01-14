@@ -1,7 +1,7 @@
 ---
 title: Press
 type: default
-image: "/img/band.jpg"
+image: "/img/test.png"
 date: 2017-12-30 17:00:00 -1100
 menu:
   main: {}
