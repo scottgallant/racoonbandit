@@ -36,6 +36,8 @@ fields:
     name: name
     label: Name
     description: Song or Album that is being embedded
+  config:
+    labelField: name
 - type: datetime
   name: date
   label: Date
