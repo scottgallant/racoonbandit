@@ -18,11 +18,6 @@ fields:
   type: file
   hidden: false
   default: ''
-- name: draft
-  label: Draft
-  type: boolean
-  hidden: false
-  default: true
 - name: soundcloud
   label: Sound Cloud Embed
   type: field_group_list
@@ -38,6 +33,11 @@ fields:
     description: Song or Album that is being embedded
   config:
     labelField: name
+- name: draft
+  label: Draft
+  type: boolean
+  hidden: false
+  default: true
 - type: datetime
   name: date
   label: Date
