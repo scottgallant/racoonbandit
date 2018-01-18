@@ -2,7 +2,7 @@
 title: Shows
 type: show
 image: "/img/rehearse1.jpg"
-display_shows: true
+display_shows: false
 shows:
 - date: Oct 28
   description: Halloween Shakedown with SORREY at Sportsman's Club
@@ -11,5 +11,7 @@ shows:
   description: Some show
   link: ''
 date: 2017-12-31 17:00:00 -1100
-menu: "main"
+menu:
+  main: {}
+
 ---
