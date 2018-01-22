@@ -29,5 +29,7 @@ videos:
     width="700" height="464" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
   heading: Hold on to your Hat <small>Oct 2010</small>
 date: 2017-12-31 17:00:00 -1100
-menu: "main"
+menu:
+  main: {}
+
 ---
