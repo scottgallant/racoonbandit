@@ -4,7 +4,8 @@ type: default
 image: "/img/band.jpg"
 date: 2017-12-30 17:00:00 -1100
 menu:
-  main: {}
+  main:
+    weight: 4
 
 ---
 **For interviews or media requests, please contact Pigeon Row, via trevor@pigeonrow.ca**

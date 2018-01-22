@@ -1,54 +1,30 @@
-# Site settings
-# --------------
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ .Site.Params.myvariable }}.
-baseurl = "/" # The subpath of your site, e.g. / or /blog
+baseurl = "/"
+defaultContentLanguage = "en"
+destination = "../dist/"
+disableKinds = ["taxonomy", "taxonomyTerm"]
+enableEmoji = true
+hrefTargetBlank = false
 languageCode = "en-us"
 languageLang = "en"
-defaultContentLanguage = "en"
-title = "My New Hugo Site"
-
-# Build settings
-# --------------
-
-# Set the destination the same as the Gulpfile for consistency
-destination = "../dist/"
-
-# Categories and tags disabled for an easier start
-# https://gohugo.io/getting-started/configuration/#toml-configuration
-disableKinds = ["taxonomy", "taxonomyTerm"]
-
-# Enable this to have links relativized by Hugo
-# E.g,  if your /post/first/ page contains a link
-# to /about/, Hugo will rewrite the URL to ../../about/
 relativeURLs = false
-
-# Enable to have links open in new tab
-hrefTargetBlank = false
-
-# Enable rendering of Emojis in markdown
-enableEmoji = true
-
-# Site Menus
-# See the Hugo docs for usage in layouts
-# https://gohugo.io/content-management/menus/
+title = "My New Hugo Site"
 [[menu.social]]
-  name = "facebook"
-  weight = 0
-  identifier = "facebook"
-  url = "http://www.facebook.com/racoonbanditmusic"
+identifier = "facebook"
+name = "facebook"
+url = "http://www.facebook.com/racoonbanditmusic"
+weight = 1
 [[menu.social]]
-  name = "iTunes"
-  weight = 0
-  identifier = "itunes"
-  url = "http://itunes.apple.com/ca/artist/racoon-bandit/id369504253"
+identifier = "radio3"
+name = "Radio3"
+url = "http://radio3.cbc.ca/bands/Racoon-Bandit"
+weight = 3
 [[menu.social]]
-  name = "Radio3"
-  weight = 0
-  identifier = "radio3"
-  url = "http://radio3.cbc.ca/bands/Racoon-Bandit"
+identifier = "itunes"
+name = "iTunes"
+url = "http://itunes.apple.com/ca/artist/racoon-bandit/id369504253"
+weight = 2
 [[menu.social]]
-  name = "Twitter"
-  weight = 0
-  identifier = "Twitter"
-  url = "https://twitter.com/racoon_bandit"
+identifier = "Twitter"
+name = "Twitter"
+url = "https://twitter.com/racoon_bandit"
+weight = 4
