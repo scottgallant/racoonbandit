@@ -12,3 +12,6 @@ menu:
   main: {}
 
 ---
+
+
+Auto deploy test
