@@ -11,9 +11,9 @@ menu:
 
 [DOWNLOAD ARTWORK AND HIGH RES PHOTOS](https://www.dropbox.com/sh/9icyfyt0ut0cbf0/AAAenTCjOJPDD1QCveNGmCCja?dl=0)
 
-**Praise for Racoon Bandit:** _“Their sound has elicited comparisons to such East Coast indie rock peers as the revered Sloan and Thrush Hermit, and their excellent new album Close Your Eyes justifies that.”_ – [NewCanadianMusic](https://www.facebook.com/NewCanadianMusic) 
+**Praise for Racoon Bandit:** _“Their sound has elicited comparisons to such East Coast indie rock peers as the revered Sloan and Thrush Hermit, and their excellent new album Close Your Eyes justifies that.”_ – [NewCanadianMusic](https://www.facebook.com/NewCanadianMusic)
 
-_“Like Joel Plaskett on an ayahuasca binge…Close Your Eyes accomplishes the two things every album should strive for: It leaves the listener wanting more, and wondering where they left their dealer’s phone number.”_
+ _“Like Joel Plaskett on an ayahuasca binge…Close Your Eyes accomplishes the two things every album should strive for: It leaves the listener wanting more, and wondering where they left their dealer’s phone number.”_
 
 “_The summery, washed-out production lends the album’s more contemplative moments like ‘Believe Me’ and ‘Second Chance’ even more warmth and emotional heft.”_ –**AUX-TV**
 
