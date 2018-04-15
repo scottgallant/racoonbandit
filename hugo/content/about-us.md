@@ -5,7 +5,7 @@ image: "/img/montreal_show_bw.jpeg"
 date: 2017-12-31 17:00:00 -1100
 menu: "main"
 ---
-Racoon Bandit show a knack for warm folk-rock arrangements that hide an anthemic bite. Equal parts roots, pysch-rock, and indie, the quartet turned heads across the country this year with their third independent release "Close Your Eyes." The album was featured on several Best of 2015 lists, including Mixtape Magazine‘s Top-9 East Coast albums and Top-45 Canadian records of 2015. The album also picked up a 2016 East Coast Music Award nomination for Rock Recording of the Year and 3 Music PEI nominations.
+Test. Racoon Bandit show a knack for warm folk-rock arrangements that hide an anthemic bite. Equal parts roots, pysch-rock, and indie, the quartet turned heads across the country this year with their third independent release "Close Your Eyes." The album was featured on several Best of 2015 lists, including Mixtape Magazine‘s Top-9 East Coast albums and Top-45 Canadian records of 2015. The album also picked up a 2016 East Coast Music Award nomination for Rock Recording of the Year and 3 Music PEI nominations.
 
 The band is comprised of Fraser McCallum, Adam Gallant, Roger Carter, and Colin Buchanan, with former member Scott Gallant also contributing songwriting and performance to "Close Your Eyes." In the vein of fellow East Coast stalwarts Sloan & Thrush Hermit, the Bandits share songwriting and lead vocal duties, bringing a dynamic sound and performance to their three records and to the stage.
 
