@@ -1,0 +1,45 @@
+---
+pages:
+- music.md
+hide_body: false
+is_partial: false
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: type
+  label: Type
+  type: text
+  hidden: true
+  default: ''
+- name: image
+  label: Image
+  type: file
+  hidden: false
+  default: ''
+- name: soundcloud
+  label: Sound Cloud Embed
+  type: field_group_list
+  fields:
+  - name: embedcode
+    label: Embed Code
+    type: text
+    hidden: false
+    description: Paste the soundcloud embed code here
+  - type: text
+    name: name
+    label: Name
+    description: Song or Album that is being embedded
+  config:
+    labelField: name
+- name: draft
+  label: Draft
+  type: boolean
+  hidden: false
+  default: true
+- type: datetime
+  name: date
+  label: Date
+  hidden: true

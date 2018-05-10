@@ -1,0 +1,31 @@
+---
+pages:
+- contact.md
+hide_body: false
+is_partial: false
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: type
+  label: Type
+  type: text
+  hidden: true
+  default: ''
+- name: image
+  description: This is a tall image floated to the right
+  label: Image
+  type: file
+  hidden: false
+  default: ''
+- name: draft
+  label: Draft
+  type: boolean
+  hidden: false
+  default: true
+- type: datetime
+  name: date
+  label: Date
+  hidden: true
