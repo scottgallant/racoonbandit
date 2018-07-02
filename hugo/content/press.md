@@ -7,8 +7,6 @@ menu:
   main: {}
 
 ---
-**For interviews or media requests, please contact Pigeon Row, via trevor@pigeonrow.ca**
-
 [DOWNLOAD ARTWORK AND HIGH RES PHOTOS](https://www.dropbox.com/sh/9icyfyt0ut0cbf0/AAAenTCjOJPDD1QCveNGmCCja?dl=0)
 
 **Praise for Racoon Bandit:** _“Their sound has elicited comparisons to such East Coast indie rock peers as the revered Sloan and Thrush Hermit, and their excellent new album Close Your Eyes justifies that.”_ – [NewCanadianMusic](https://www.facebook.com/NewCanadianMusic)
