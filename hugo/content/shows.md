@@ -4,8 +4,9 @@ type: show
 image: "/img/rehearse1.jpg"
 display_shows: true
 shows:
-- date: July 6th, 10th anniversary show @ Fishbones in Charlottetown, PE
+- date: July 6th, 2018
   link: https://www.facebook.com/events/228401227963767/
+  description: 10th anniversary show @ Fishbones in Charlottetown, PE
 - description: ECMA Mondays @ Market Square Boardwalk in Saint John
   date: Monday, July 9th, 2018
   link: http://ecma.com/news/market-square-home-of-ecma-2017-introduces-ecma-mondays
