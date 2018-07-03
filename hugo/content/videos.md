@@ -4,6 +4,7 @@ type: videos
 videos:
 - heading: Modern Life
   embed: https://youtu.be/gAO-27eaiyk
+  description: Modern Life
 - embed: <iframe src="https://www.youtube.com/embed/qUjHnZOiyFU?rel=0&amp;showinfo=0"
     width="700" height="394" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
   heading: Second Chance
