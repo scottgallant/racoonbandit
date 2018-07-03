@@ -3,7 +3,7 @@ title: Videos
 type: videos
 videos:
 - heading: Modern Life
-  embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/gAO-27eaiyk"
+  embed: <iframe width="700" height="394" src="https://www.youtube.com/embed/gAO-27eaiyk"
     frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   description: Video by Chris Robison
 - embed: <iframe src="https://www.youtube.com/embed/qUjHnZOiyFU?rel=0&amp;showinfo=0"
