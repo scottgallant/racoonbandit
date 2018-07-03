@@ -5,7 +5,7 @@ videos:
 - heading: Modern Life
   embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/gAO-27eaiyk"
     frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-  description: Modern Life
+  description: Video by Chris Robison
 - embed: <iframe src="https://www.youtube.com/embed/qUjHnZOiyFU?rel=0&amp;showinfo=0"
     width="700" height="394" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
   heading: Second Chance
