@@ -3,7 +3,7 @@ title: Videos
 type: videos
 videos:
 - heading: Tattered Star
-  embed: <iframe width="700" height="355" src="https://www.youtube.com/embed/ugC6kiaGfuA"
+  embed: <iframe width="700" height="394" src="https://www.youtube.com/embed/ugC6kiaGfuA"
     frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   description: Video by Chris Robison
 - heading: Modern Life
