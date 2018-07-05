@@ -27,8 +27,8 @@ fields:
   label: Date
   hidden: false
 pages:
-- hugo/content/store.md
-- hugo/content/press.md
-- hugo/content/_index.md
-- hugo/content/download.md
 - hugo/content/about-us.md
+- hugo/content/download.md
+- hugo/content/_index.md
+- hugo/content/press.md
+- hugo/content/store.md
