@@ -4,9 +4,11 @@ auto_deploy: false
 admin_path: "/admin/"
 webhook_url: 
 sections:
-- path: hugo/content
+- type: directory
+  path: hugo/content
   label: Pages
   create: all
+  match: "*"
 upload_dir: hugo/static/img
 public_path: "/img"
 front_matter_path: ''
