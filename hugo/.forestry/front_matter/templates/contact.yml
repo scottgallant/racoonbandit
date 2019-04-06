@@ -1,8 +1,6 @@
 ---
-pages:
-- contact.md
+label: Contact
 hide_body: false
-is_partial: false
 fields:
 - name: title
   label: Title
@@ -29,3 +27,5 @@ fields:
   name: date
   label: Date
   hidden: true
+pages:
+- hugo/content/contact.md

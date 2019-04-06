@@ -1,13 +1,6 @@
 ---
-pages:
-- test.html
-- store.md
-- press.md
-- _index.md
-- download.md
-- about-us.md
+label: default
 hide_body: false
-is_partial: false
 fields:
 - name: title
   label: Title
@@ -33,3 +26,9 @@ fields:
   name: date
   label: Date
   hidden: false
+pages:
+- hugo/content/store.md
+- hugo/content/_index.md
+- hugo/content/download.md
+- hugo/content/about-us.md
+- hugo/content/press.md

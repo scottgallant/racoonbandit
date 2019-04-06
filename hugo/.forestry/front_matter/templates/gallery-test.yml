@@ -1,9 +1,0 @@
----
-pages:
-- gallery-test.md
-hide_body: false
-is_partial: false
-fields:
-- type: image_gallery
-  name: gallery
-  label: gallery
